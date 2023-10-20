@@ -1,4 +1,4 @@
-let MenuItems = ["Picanha", "Picada", "Tomahawk","Costila De Cerdo","Wagyu"];
+let MenuItems = ["Picanha", "Picada", "Tomahawk","Costila De Cerdo","Wagyu","Filete T-Bone","Cola de Cuadril","Churrasco","Bife Ancho","Bife Ancho con Hueso","Asado de Tira","Bife de Vacío","Lomo","Rib Eye","Porterhouse","Kebab","Filete","Top Sirloin","Arrachera","Entraña"];
 
 function InitialValues() {
     var select = document.getElementsByClassName("menuItems");
